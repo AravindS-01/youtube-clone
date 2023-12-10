@@ -34,21 +34,16 @@ a {
   color: white !important;
 }
 
-/* .react-player {
+.react-player {
   height: 77vh !important;
   width: 100% !important;
-}*/
+}
 
 .search-bar{
   border:none;
   outline:none;
   width:350px;
 } 
-@media screen and (max-width: 500px) {
-  .search-bar{
-    width:auto;
-  }
-}
 
 .category-btn{
   font-weight: bold !important;
@@ -72,7 +67,7 @@ a {
     margin: 10px;
   }
 }
-/* 
+
 @media screen and (max-width:800px){
   .copyright{
     display:none !important;
@@ -90,4 +85,4 @@ a {
   .search-bar{
     width:200px;
   }
-} */
+}

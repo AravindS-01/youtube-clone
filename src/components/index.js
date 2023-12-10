@@ -6,3 +6,6 @@ export {default as NavBar} from './NavBar.jsx';
 export {default as SearchBar} from './SearchBar.jsx';
 export {default as Videos} from './Videos.jsx';
 export {default as SideBar} from './SideBar.jsx';
+export {default as VideoCard} from './VideoCard.jsx';
+export {default as ChannelCard} from './ChannelCard.jsx';
+export {default as Loader} from './Loader.jsx';
